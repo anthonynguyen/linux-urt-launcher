@@ -1,7 +1,7 @@
 Linux UrT Launcher
 ==================
 
-The urbanterror.info website has had a server browser for quite some time now, and it even comes with a nifty little program to start UrT by clicking on a link in the browser. Unfortunately, this program is Windows only and there hasn't been a Linux option, *until now*.
+The urbanterror.info website has had a server browser for quite some time now, and it even comes with a nifty little program to start UrT by clicking on a link in the browser. Unfortunately, this program is Windows and Mac only and there hasn't been a Linux option, *until now*.
 
 
 If you follow these simple steps, it should be up and running in no time.
