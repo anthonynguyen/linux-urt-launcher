@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=/home/clearskies/urt-handler.py %u
+Terminal=false
+Categories=Games
+MimeType=x-scheme-handler/urt
+Name=UrT URL Handler
+Comment=Launch UrT via URL
