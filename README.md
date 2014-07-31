@@ -8,7 +8,7 @@ If you follow these simple steps, it should be up and running in no time.
 
 ## Instructions ##
 1. Download these files:
-    + [urt-handler.py](urt-handler.py)
+    + [urt-handler-2.py](urt-handler-2.py) or [urt-handler-3.py](urt-handler-3.py) depending on your version of Python
     + [urt-handler.desktop](urt-handler.desktop)
     + [mimeapps.list](mimeapps.list)
 2. Move the `urt-handler.py` to a location of your choosing

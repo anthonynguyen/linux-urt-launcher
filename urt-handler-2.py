@@ -5,7 +5,7 @@ import urlparse
 
 
 # Enter the path to your UrT executable
-URT_EXECUTABLE = "/home/clearskies/UrbanTerror42/Quake3-UrT.i386"
+URT_EXECUTABLE = "~/UrbanTerror42/Quake3-UrT.i386"
 
 
 url = urlparse.urlparse(sys.argv[1])
